@@ -1,4 +1,4 @@
-//myfirst.cpp -- âûâîäèò ñîîáùåíèå íà ýêðàí.
+//myfirst.cpp -- write massages on the screen
 
 #include <iostream>
 int main()
