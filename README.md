@@ -1,4 +1,3 @@
 # hello-world
-I am learning to use GitHub
-My favorite programming language is C++
+I'm learning C ++ and at the same time learning to use github
 
