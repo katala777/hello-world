@@ -1,5 +1,5 @@
-// carrots.cpp -- программа по технологии производства пищевых продуктов
-// использует и отображает переменную
+// carrots.cpp -- ДЏД‘Г®ДѓД‘Е•Д›Д›Е• ДЏГ® Е€ДєЕ‘Г­Г®Г«Г®ДѓДЌДЌ ДЏД‘Г®ДЌГ§ГўГ®Г¤Е„Е€ГўЕ• ДЏДЌЕЇДєГўЕ±Е‘ ДЏД‘Г®Г¤ГіД™Е€Г®Гў
+// ДЌЕ„ДЏГ®Г«ГјГ§ГіДєЕ€ ДЌ Г®Е€Г®ГЎД‘Е•Д‡Е•ДєЕ€ ДЏДєД‘ДєД›ДєГ­Г­ГіЕЈ
 #include <iostream>
 
 int main()
@@ -12,7 +12,7 @@ int main()
 	cout << " carrots.";
 	cout << endl;
 	carrots = carrots - 1;
-	cout << "Crunch, crunch. Now I have " << carrots << " carrots." << endl;
+	cout << "Crunch, crunch. Now I have " << carrots << " carrots. " << endl;
 	return 0;
 }
 
