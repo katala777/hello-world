@@ -1,1 +1,1 @@
-Examples from chapter 2
+Examples from Сhapter 2
