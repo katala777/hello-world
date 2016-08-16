@@ -1,17 +1,17 @@
-//limits.cpp -- некоторые ограничения целых чисел
+п»ї//limits.cpp -- РЅРµРєРѕС‚РѕСЂС‹Рµ РѕРіСЂР°РЅРёС‡РµРЅРёСЏ С†РµР»С‹С… С‡РёСЃРµР»
 #include <iostream>
 #include <climits>
 
 int main()
 {
 	setlocale(LC_ALL,"");
-	using namespace std;//использовать пространство имен std
+	using namespace std;//РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ РїСЂРѕСЃС‚СЂР°РЅСЃС‚РІРѕ РёРјРµРЅ std
 	int n_int = INT_MAX;
 	short n_short = SHRT_MAX;
 	long n_long = LONG_MAX;
 	long long n_llong = LLONG_MAX;
 	
-	//операция sizeof выдает размер типа или переменной
+	//РѕРїРµСЂР°С†РёСЏ sizeof РІС‹РґР°РµС‚ СЂР°Р·РјРµСЂ С‚РёРїР° РёР»Рё РїРµСЂРµРјРµРЅРЅРѕР№
 	cout << "int is " << sizeof (int) << " bytes." << endl;
 	cout << "short is " << sizeof n_short << " bytes." << endl;
 	cout << "long is " << sizeof n_long << " bytes." << endl;
