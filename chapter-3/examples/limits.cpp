@@ -4,8 +4,7 @@
 
 int main()
 {
-	setlocale(LC_ALL,"");
-	using namespace std;//использовать пространство имен std
+	using namespace std;
 	int n_int = INT_MAX;
 	short n_short = SHRT_MAX;
 	long n_long = LONG_MAX;
